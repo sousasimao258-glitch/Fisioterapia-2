@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="FisioPrestige">
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#25739B" stroke-width="5"/>
+  <!-- F -->
+  <path d="M33 27h26v7H40.5v10.5H55v7H40.5V74H33z" fill="#25739B"/>
+  <!-- meia-lua dourada (P/D) -->
+  <path d="M51 37.5h3.5a14 14 0 0 1 0 28H47v-7h7.5a7 7 0 0 0 0-14H51z" fill="#C6A473"/>
+</svg>
